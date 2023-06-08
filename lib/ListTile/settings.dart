@@ -13,7 +13,7 @@ class Settings extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: const <Widget>[
-            Text('Halaman Pengaturan'),
+            Text('Halaman Menu Pengaturan'),
           ],
         ),
       ),
