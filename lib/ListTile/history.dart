@@ -13,7 +13,7 @@ class History extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: const <Widget>[
-            Text('Halaman History'),
+            Text('Halaman Menu History'),
           ],
         ),
       ),
