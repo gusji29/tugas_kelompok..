@@ -13,7 +13,7 @@ class Beranda extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: const <Widget>[
-            Text('Halaman Menu Beranda'),
+            Text('Halaman Beranda'),
           ],
         ),
       ),
